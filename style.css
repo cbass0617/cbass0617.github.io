@@ -12,11 +12,11 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 20px;
+    padding: 15px;
+    padding-right: 150;
     background-color: rgb(170, 222, 254);
-    color: rgb(255, 255, 255);
+    color: rgb(107, 95, 95);
 }
-
 .logo img {
     width: 225px;
 }
@@ -37,6 +37,9 @@ nav ul li a {
 
 main {
     padding: 20px;
+    color: rgba(170, 222, 254);
+    background-color: rgb(101, 64, 44);
+    align-items: center;
 }
 .logo2 img {
     width: 225px;
@@ -47,7 +50,6 @@ footer {
     text-align: center;
     padding-top: 20;
     padding: 10px;
-    background-color: rgb(170, 222, 254);
+    background-color: rgb(217, 133, 167);
     color: rgb(0, 0, 0);
-
 }
